@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Touch Toggle
+Exec=sh -c "python3 /home/pi/toggle-display.py >> /home/pi/toggle.log 2>&1"
+Type=Application
+X-GNOME-Autostart-enabled=true
