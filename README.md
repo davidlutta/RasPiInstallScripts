@@ -1,0 +1,1 @@
+# Useful Scripts for when I am setting up raspberry Pis
